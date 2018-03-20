@@ -2,7 +2,7 @@
 
 ## Reto
 
-Optimizar la conversión de visitantes a donadores, mediante landing page apoya.savethechildren.mx
+Optimizar la conversión de visitantes a donadores, mediante landing page www.apoyo.savethechildren.mx
 
 ## Investigación
 
@@ -99,9 +99,30 @@ Mejorar la calidad de vida y el desarrollo integral de niños y adolescentes mex
 
 ![](assets/foda-estrategias-03.png)
 
+## Propuesta Objetivo de Negocio
+
+Optimizar la arquitectura de información de la plataforma web de Save the Children México, para facilitar el proceso de donación de los usuarios que acceden desde búsquedas pagadas; aumentando el entendimiento del donante mostrando los procesos de investigación que lleva a cabo la organización y los avances que se han obtenido de los programas. Midiendo el interés hacia los contenidos, por medio de los rangos de tiempo que permanece el usuario observando la información.
+
+**Objetivo:** Aumentar el entendimiento de los donantes acerca del proceso que lleva a cabo la organización, para que incrementen las donaciones.
+
+**Estrategia:** Optimizar la arquitectura de información de la plataforma web de Save the Children México, mostrando los procesos de investigación y los avances dentro de las comunidades.
+
+**Métrica:** ¿Cuánto tiempo emplean los usuarios leyendo/observando la información?
+
+**Rangos de tiempo:** 
+  - Menos de 5 segundos - No le prestó atención.
+  - 30 segundos hacia abajo - El contenido captó su interés visualmente por los títulos o gráficos presentados.
+  - El total de la duración del video/lectura de gráfico - Se generó engagment.
+  - El usuario además de prestar atención, dona - Objetivo éxitoso.
+  
+**¿Cuándo?:** Presentación ante representantes de STCM, a finales del mes de marzo en las instalaciones de Laboratoria.
+
+**Problemas que pueden surgir:** Que no le interese a las personas el contenido.
+
+
 ## Cuadro Objetivo de Negocio
 
-![](assets/cuadro-cami-ros.png)
+![](assets/cuadro-cami-ros.PNG)
 
 ## Encuesta
 
