@@ -117,7 +117,7 @@ Optimizar la arquitectura de información de la plataforma web de Save the Child
   
 **¿Cuándo?:** Presentación ante representantes de STCM, a finales del mes de marzo en las instalaciones de Laboratoria.
 
-**Problemas que pueden surgir:** Que no le interese a las personas el contenido.
+**Problemas que pueden surgir:** Desinteres de usuarios hacia el contenido.
 
 
 ## Cuadro Objetivo de Negocio
